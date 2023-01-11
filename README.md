@@ -69,6 +69,8 @@ Response:
     "error": false,
     "message": "Long Url Updated"
 }
+
+
 Delete URL:
 
 The below endpoint performs a delete URL operation in the database
